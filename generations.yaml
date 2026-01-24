@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Polo"
+
 generations:
   - name: "Polo V (Type 6R/6C)"
     start_year: 2009
